@@ -17,6 +17,13 @@ window.GROUP_ROSTER = [
     role: "Fullstack-разработчик (Python + Vue)",
     tag: "Python · Vue · Frappe",
     photo: "assets/img/krokhin.svg"
+  },
+  {
+    slug: "bereznyov",
+    name: "Березнёв Дмитрий Алексеевич",
+    role: "Fullstack-разработчик",
+    tag: "Python · JavaScript · Git",
+    photo: ""
   }
 ];
 
